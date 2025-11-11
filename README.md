@@ -1,6 +1,6 @@
 # SQL Layoffs Dataset - Exploratory Data Analysis (EDA)
 
-This project focuses on **Exploratory Data Analysis (EDA)** on the global tech layoffs dataset.  
+This project focuses on **Exploratory Data Analysis (EDA)** on the global layoffs dataset.  
 The analysis is performed entirely in **SQL** using the cleaned table `layoffs_staging2` from the previous step of the project.
 
 ## Objectives
